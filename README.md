@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andra</h1>
-<h3 align="center">A lifetime learner tech-savvy</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=A+lifetime+learner+tech-savvy" width="70%" /></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrputra&label=Profile%20views&color=0e75b6&style=flat" alt="adrputra" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrputra" alt="adrputra" /></a> </p> -->
 - 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/1RexgF9OsxTt34J4BVo67pOMMLaOAcg5KlWSrccGHt5I/edit?usp=drive_link](https://docs.google.com/presentation/d/1RexgF9OsxTt34J4BVo67pOMMLaOAcg5KlWSrccGHt5I/edit?usp=drive_link)
